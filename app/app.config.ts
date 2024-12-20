@@ -55,7 +55,7 @@ export default defineAppConfig({
     title: 'Table of Contents',
     bottom: {
       title: 'Community',
-      edit: 'https://github.com/nuxt-ui-pro/docs/edit/main/content',
+      edit: 'https://github.com/creathors-com/docs/edit/main/content',
       links: [{
         icon: 'i-material-symbols:mail',
         label: 'Mail support',
